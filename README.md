@@ -25,11 +25,10 @@ Projeto simples desenvolvido com **HTML**, **CSS** e **JavaScript** para ajudar 
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/seu-usuario/Media-Escolar.git
-Acesse a pasta do projeto:
 
-bash
-Copiar código
+2. Acesse a pasta do projeto:
 cd Media-Escolar
-Abra o arquivo index.html no navegador.
 
-Insira as notas do aluno e veja o resultado! 🎓
+3. Abra o arquivo index.html no navegador.
+
+4. Insira as notas do aluno e veja o resultado! 🎓
