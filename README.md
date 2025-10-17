@@ -1,4 +1,4 @@
-# 🧮 Média Escolar
+# 🧮 Sistema Nota Aluno
 
 Projeto simples desenvolvido com **HTML**, **CSS** e **JavaScript** para ajudar professores a calcular a média dos alunos e informar se o aluno foi **aprovado**, está em **recuperação** ou **reprovado**.
 
@@ -27,7 +27,7 @@ Projeto simples desenvolvido com **HTML**, **CSS** e **JavaScript** para ajudar 
    git clone https://github.com/seu-usuario/Media-Escolar.git
 
 2. Acesse a pasta do projeto:
-cd Media-Escolar
+cd Sistema-Nota-Aluno
 
 3. Abra o arquivo index.html no navegador.
 
